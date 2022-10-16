@@ -1,0 +1,17 @@
+.App{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.container, h1, .box{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
